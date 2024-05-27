@@ -1,0 +1,4 @@
+site_name: Thanush A A
+nav:
+  - Home: index.md
+  - About: about.md
