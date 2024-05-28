@@ -23,9 +23,13 @@ From January 2024 - July 2024
 - I am currently very much interested in cognitive science and would love to pursue my higher studies in that field
 - Also interested in Machine Learning and Data Science
 
+## Some of my favourite  
+
 ## Contact details
 
 - Email: <a href="mailto:aathanush@gmail.com">aathanush@gmail.com</a>
 - LinkedIn URL: <a href="https://www.linkedin.com/in/thanushaa/">https://www.linkedin.com/in/thanushaa/</a>
 - GitHub URL: <a href="https://www.github.com/aathanush">https://www.github.com/aathanush</a>
 - Kaggle URL: <a href="https://www.kaggle.com/aathanush">https://www.kaggle.com/aathanush</a>
+
+
