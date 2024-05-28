@@ -3,9 +3,8 @@
 
 Hello everyone, I am Thanush A A.
 
-This is not a documentation, it is my personal portfolio (iykyk).
-
-
+!!! note
+    Tool used for designing the portfolio: mkdocs
 ## Education
 - **Schooling** - Kendriya Vidyalaya, Nagercoil
     - 10<sup>th</sup> Board Exams - 437/500
@@ -22,8 +21,6 @@ From January 2024 - July 2024
 
 - I am currently very much interested in cognitive science and would love to pursue my higher studies in that field
 - Also interested in Machine Learning and Data Science
-
-## Some of my favourite  
 
 ## Contact details
 

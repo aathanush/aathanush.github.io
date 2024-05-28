@@ -1,4 +1,6 @@
 site_name: Thanush A A
+markdown_extensions:
+  - admonition
 nav:
   - Home: index.md
   - Achievements: achievements.md
