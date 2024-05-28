@@ -25,6 +25,7 @@ From January 2024 - July 2024
 
 ## Contact details
 
-- Email: aathanush@gmail.com
-- LinkedIn URL: https://www.linkedin.com/in/thanushaa/
-- GitHub URL: https://www.github.com/aathanush
+- Email: <a href="mailto:aathanush@gmail.com">aathanush@gmail.com</a>
+- LinkedIn URL: <a href="https://www.linkedin.com/in/thanushaa/">https://www.linkedin.com/in/thanushaa/</a>
+- GitHub URL: <a href="https://www.github.com/aathanush">https://www.github.com/aathanush</a>
+- Kaggle URL: <a href="https://www.kaggle.com/aathanush">https://www.kaggle.com/aathanush</a>
