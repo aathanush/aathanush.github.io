@@ -1,4 +1,6 @@
 site_name: Thanush A A
 nav:
   - Home: index.md
-  - About: about.md
+  - Achievements: achievements.md
+  - Projects: projects.md
+  

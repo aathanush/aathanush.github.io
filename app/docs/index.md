@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Thanush A A
+![](images/college_photo.jpg)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello everyone, I am Thanush A A.
 
-## Commands
+This is not a documentation, it is my personal portfolio (iykyk).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Education
+- **Schooling** - Kendriya Vidyalaya, Nagercoil
+    - 10<sup>th</sup> Board Exams - 437/500
+    - 12<sup>th</sup> Board Exams - 471/500 
+- **UG** - Thiagarajar College of Engineering, Madurai
+    - CGPA: 8.55/10
+    
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## My interests
+
+- I am currently very much interested in cognitive science and would love to pursue my higher studies in that field
+- Also interested in Machine Learning and Data Science
+
+
