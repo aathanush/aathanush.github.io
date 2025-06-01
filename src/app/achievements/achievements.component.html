@@ -1,0 +1,24 @@
+<header tuiHeader="h3">
+	    <hgroup tuiTitle>
+	        <h1>Achievements</h1>
+	        <p class="handles" tuiSubtitle>
+                Here are some of my achievements that you might find interesting 
+            </p>
+	    </hgroup>
+</header>
+
+
+<tui-accordion tuiConnected class="accordion">
+    <ng-container *ngFor="let item of achievements ; let index = index">
+        <tui-accordion-item>
+            {{achievements[index].title}}, {{achievements[index].event}} <br> <b>{{achievements[index].year}}</b>
+            <ng-template tuiAccordionItemContent>
+                
+                            {{item.details}} 
+                   
+                
+	        </ng-template>
+        </tui-accordion-item>
+    </ng-container>
+</tui-accordion>
+

@@ -1,0 +1,6 @@
+@import '@taiga-ui/core/styles/taiga-ui-local.scss';
+
+.navigation
+{
+    justify-content: space-around !important
+}

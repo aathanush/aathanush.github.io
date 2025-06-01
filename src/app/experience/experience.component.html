@@ -1,0 +1,37 @@
+<tui-accordion tuiConnected class="accordion">
+    <ng-container *ngFor="let item of experience ; let index = index">
+        <tui-accordion-item>
+            {{experience[index].role}}, {{experience[index].org}} <br> {{experience[index].period}}
+            <ng-template tuiAccordionItemContent>
+                <ul>
+                    <ng-container *ngFor="let detail of item.details">
+                        <li>
+                            {{detail}} 
+                        </li>
+                    </ng-container>       
+                    <li>
+                        <b>Soft Skills:</b>
+                        <ul>
+                            <ng-container *ngFor="let detail of item.softskills">
+                                <li>
+                                    {{detail}} 
+                                </li>
+                            </ng-container> 
+                        </ul>
+                    </li>             
+                    <li>
+                        <b>Technical Skills:</b>
+                        <ul>
+                            <ng-container *ngFor="let detail of item.techskills">
+                                <li>
+                                    {{detail}} 
+                                </li>
+                            </ng-container> 
+                        </ul>
+                    </li>             
+                </ul>
+                
+	        </ng-template>
+        </tui-accordion-item>
+    </ng-container>
+</tui-accordion>
