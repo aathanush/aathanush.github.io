@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/": {},
+    "/achievements": {},
+    "/courses": {},
+    "/experience": {},
+    "/publications": {},
+    "/qualifications": {}
+  }
+}
