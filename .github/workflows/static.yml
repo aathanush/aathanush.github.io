@@ -29,6 +29,6 @@ jobs:
           build_configuration: production
           base_href: /aathanush.github.io/
           deploy_branch: gh-pages
-          angular_dist_build_folder: dist/portfolio
+          angular_dist_build_folder: dist/portfolio/browser
           run_lint: false
           skip_failure: false
