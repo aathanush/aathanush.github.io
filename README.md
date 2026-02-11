@@ -1,2 +1,2 @@
 # Github portfolio
-Will be updated later
+Updated (redirects to netlify portfolio)
